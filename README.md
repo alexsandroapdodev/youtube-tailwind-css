@@ -1,5 +1,8 @@
 # YouTube Tailwind CSS
 
+![youtube-tailwind-css](https://github.com/user-attachments/assets/08409ff9-a5fe-4e8e-ba6c-dd9bb525ac24)
+
+
 Um clone do YouTube desenvolvido com **Tailwind CSS** e **JavaScript** para praticar desenvolvimento front-end moderno, focado em design responsivo e usabilidade.
 
 ---
@@ -8,7 +11,7 @@ Um clone do YouTube desenvolvido com **Tailwind CSS** e **JavaScript** para prat
 
 Confira o projeto online no link:
 
-https://youtube-tailwind-css.vercel.app/
+https://youtube-tailwind-css.vercel.app
 
 ---
 
