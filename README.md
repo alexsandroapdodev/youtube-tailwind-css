@@ -1,6 +1,6 @@
-YouTube Tailwind CSS
+Youtube interface desenvolvi com html, tailwind css, Javascript.
+Também acompanhando a força da metodologia ágil para praticar desenvolvimento profissional focado no front-end moderno, em design responsivo, escalabilidade e usabilidade. 
 
-Desenvolvi youtube tailwind css com Javascript também e com metodologia ágil para praticar desenvolvimento front-end moderno, focado em design responsivo, usabilidade.
 Confira o projeto online no link: https://youtube-tailwind-css.vercel.app
 
 @Dev Club Tech
