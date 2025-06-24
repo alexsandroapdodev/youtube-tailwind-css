@@ -42,7 +42,7 @@ Este projeto foi criado com o objetivo de reproduzir a interface do YouTube usan
 ## 📁 Estrutura do projeto
 
 /youtube-tailwind-css
-│
+│  
 ├── index.html # Página principal
 ├── styles.css # Arquivos CSS com Tailwind
 ├── scripts.js # Código JS para interatividade
@@ -76,7 +76,10 @@ Contribuições são bem-vindas! Se quiser melhorar esse projeto, faça um fork,
 Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 📝 Contato
-Desenvolvido por Alexsandro Oliveira - alexsandrolt1996@gmail.com
+Desenvolvido por Alexsandro Oliveira 
+
+alexsandrolt1996@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/alexsandro-aparecido-de-oliveira
 
 Agradecimentos
@@ -85,3 +88,5 @@ Tailwind CSS
 Remix Icon
 
 Inspiração no design original do YouTube
+
+Professor @Rodolfo Mori
